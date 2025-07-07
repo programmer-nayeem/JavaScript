@@ -1,0 +1,1 @@
+console.log("Basic JavaScript concepts are essential for understanding the language.");
